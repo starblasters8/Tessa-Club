@@ -1,0 +1,10 @@
+body {
+    margin: 0;
+    overflow: hidden;
+  }
+  #button {
+    position:absolute;
+    width: fit-content;
+    left:50%;
+    top:50%
+  }
